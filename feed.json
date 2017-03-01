@@ -2,7 +2,7 @@
     "feed": [
         {
             "id": 1,
-            "name": "Ghana Health Service",
+            "name": "Ghana Health Service - General Feed",
             "image": "http://api.androidhive.info/feed/img/cosmos.jpg",
             "status": "\"Science is a beautiful and emotional human endeavor,\" says Brannon Braga, executive producer and director. \"And Cosmos is all about making science an experience.\"",
             "profilePic": "http://api.androidhive.info/feed/img/nat.jpg",
@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "name": "National Health Council",
+            "name": "National Health Council - General Feed",
             "image": "http://api.androidhive.info/feed/img/time_best.jpg",
             "status": "Reaching Out to All Nurses",
             "profilePic": "http://api.androidhive.info/feed/img/time.png",
@@ -20,7 +20,7 @@
         },
         {
             "id": 5,
-            "name": "Abraham Lincoln",
+            "name": "Abraham Lincoln - General Feed",
             "image": null,
             "status": "That some achieve great success, is proof to all that others can achieve it as well",
             "profilePic": "http://api.androidhive.info/feed/img/lincoln.jpg",
@@ -29,7 +29,7 @@
         },
         {
             "id": 3,
-            "name": "Discovery",
+            "name": "Discovery - General Feed",
             "image": "http://api.androidhive.info/feed/img/discovery_mos.jpg",
             "status": "A team of Austrian scientists has developed a laser system that causes fruit flies to dance.",
             "profilePic": "http://api.androidhive.info/feed/img/discovery.jpg",
