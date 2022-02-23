@@ -4,6 +4,5 @@ function entryPoint() {
   console.log(window.window.document.location)
 }
 console.log("SCRIPT LOADED!!!");
-entryPoint();
 
 window.__entry = entryPoint;
