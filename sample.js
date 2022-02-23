@@ -3,6 +3,5 @@ function entryPoint() {
   console.log(document.cookie)
   console.log(window.window.document.location)
 }
-console.log("SCRIPT LOADED!!!");
 
 window.__entry = entryPoint;
